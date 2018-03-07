@@ -30,8 +30,6 @@ The following **additional** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. Had trouble getting the spacing bw the table view cells
-2. my send button gets covered up as i keep typing on the chat message field.
 
 ## Video Walkthrough
 
@@ -44,7 +42,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
--My app was working fine and for some reason it started giving me an unexpected nil while unwrapping optional error and I couldn't figure it out despite my code looking good, so I had to start over the app from scratch.
 
 ## License
 
