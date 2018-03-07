@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ParseChat
 //
-//  Created by German Flores on 2/28/18.
-//  Copyright © 2018 German Flores. All rights reserved.
+//  Created by Henry Guerra on 2/28/18.
+//  Copyright © 2018 Henry Guerra. All rights reserved.
 //
 
 import UIKit
